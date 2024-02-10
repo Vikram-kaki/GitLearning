@@ -1,4 +1,0 @@
-Hi hello how are you ?
-
-take input from the user:
-add the numbers
